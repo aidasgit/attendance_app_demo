@@ -1,0 +1,3 @@
+SOFT_6018, Programming Fundamentals
+SOFT_6017, Modular Programming
+SOFT_6013, Introduction to SQL
